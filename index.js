@@ -6,6 +6,8 @@ const app = express();
 const viewsPath = path.join(__dirname, "views");
 const publicPath = path.join(__dirname, "public");
 
+const PORT = process.env.PORT || 3000
+
 app.set("view engine", "ejs");
 app.set("views", viewsPath);
 
@@ -17,6 +19,6 @@ app.get("/", (req, res) => {
     res.render("index.html");
 });
 
-app.listen(3000, () => {
-    console.log("Server is running on port http://localhost:3000");
+app.listen(PORT, () => {
+    console.log(`Server is running on port http://localhost:${PORT}`);
 });
