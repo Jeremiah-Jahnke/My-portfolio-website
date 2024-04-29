@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "name": "mrlolegic.github.io",
+  "description": "Website: mr-lolegic.tech Discord: lolegic Discord Server: https://discord.gg/fwxE3uMy3A",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremiah J.",
+  "license": "MIT"
+}
