@@ -1,3 +1,9 @@
-Website: mr-lolegic.tech /
-Discord: lolegic /
+Website: mr-lolegic.tech 
+
+</br>
+
+Discord: lolegic 
+
+</br>
+
 Discord Server: NaN
